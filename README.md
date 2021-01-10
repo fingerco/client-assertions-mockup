@@ -14,4 +14,4 @@ Why specifically track failures? It makes you think about all the things you don
 
 On the computing side, "number going up is bad" is a very useful thing to know. Rather than "generic numbers" of raw analytics. You can more easily build a focused UX around it!
 
-![assertions_mockup.png]
+![Client Assertions Mockup](assertions_mockup.png)
