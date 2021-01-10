@@ -1,0 +1,5 @@
+{
+  "edit_group_without_permissions": {"failures": 2, "successes": 2},
+  "no_recommendations_shown": {"failures": 1334, "successes": 5000},
+  "page_load_took_30_seconds": {"failures": 100, "successes": 5000}
+}

@@ -1,0 +1,5 @@
+{
+  "signup_without_logging_in": {"failures": 32, "successes": 500},
+  "left_before_video_start": {"failures": 8, "successes": 15},
+  "signup_without_confirming_email": {"failures": 10, "successes": 500}
+}
