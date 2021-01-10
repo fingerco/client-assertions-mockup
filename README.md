@@ -4,7 +4,7 @@ I often get frustrated that I don't have enough energy in the day to pursue thin
 
 For that reason I figured - hey, why not sometimes mockup ideas and show them to other folks who might have that energy/desire?
 
-Anywho - this is an analytics dashboard based on your failure, insecurities and fears!
+Anywho - this is an analytics tool based on your failure, insecurities and fears (as a team)!
 
 The failures to predict your users' behavior. The failures to predict all the many states your users might find themselves in. Specifically monitoring and alerting your "sad paths" - _especially_ the ones you never expect users to hit
 
